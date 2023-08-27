@@ -1,0 +1,18 @@
+@media screen and (max-width:768px){
+    .background, .color, .gradient {
+        height: 70vh;
+        background-position: center;
+    }
+     #list1 {
+        width: 85vw !important;
+        margin-top: 10px;
+     }
+     #sidebody {
+        flex-direction: column;
+        justify-content: center;
+     }
+     #sect1 > p {
+        font-size: 20px !important;
+        margin-right: 5%;
+     }
+}
